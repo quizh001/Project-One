@@ -6,5 +6,4 @@
  > Good Communication
 
  > Beer or Tequila
- > 
 
