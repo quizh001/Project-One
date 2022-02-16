@@ -13,7 +13,7 @@ New York, NY (Inclusive of all Five Boroughs); Jackson, MS; Winston-Salem, NC; S
 
 **Historically, how have these cities performed. How have they faired in the last 1, 3 and 5 years in terms of ROI.**
 
-New York City, despite being an expensive real estate market has had consistently high ROI . New York City has been ranked first among cities across the globe in attracting capital, business, and tourists. On the other hand, many of the other cities like Jackson, Mississipi have lower home values but rents are relatively higher.
+New York City, despite being an expensive real estate market has had consistently high ROI . New York City has been ranked first among cities across the globe in attracting capital, business, and tourists. On the other hand, many of the other cities on our list ,like Jackson, Mississipi have lower home values but rents are relatively higher. This is also seen in Scranton, PA, where homevalues are well below the national median. This makes it a healthy place to invest. 
 
 
 **Which cities would give the best ROI projecting one year out**
