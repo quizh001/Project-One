@@ -17,6 +17,6 @@ New York City, despite being an expensive real estate market has had consistentl
 
 
 **Which cities would give the best ROI projecting one year out**
-Projecting a year out our cities still have a slight drop in ROI. This may be due to the growth in rent payments , with more people seeing the value in purchasing vs.renting. As seen below , there is a positive correlation between rents and home values. 
+Projecting a year out our cities have a slight drop in ROI. This may be due to the growth in rent payments , with more people seeing the value in purchasing vs.renting. As seen below , there is a positive correlation between rents and home values. 
 # Correlation between home values and rents
 ![Correlation Map](Correlation.jpg)
